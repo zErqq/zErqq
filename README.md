@@ -8,6 +8,7 @@
 <p>&#8226; 🚀 Currently working on myself</p>
 <p>&#8226; 🥊 Passion for thai-boxing</p>
 <p>&#8226; 💻 Coding journey in progress...</p>
+<br>
 <h2>🛠️ Languages and Tools :</h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
