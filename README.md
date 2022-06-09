@@ -13,4 +13,8 @@
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
     width="40" height="40"/>&nbsp;
+    
+    <p align="right">
+     <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zErqq&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 </div>
