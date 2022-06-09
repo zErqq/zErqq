@@ -1,9 +1,9 @@
 <div align="center"><img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif"></div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=zErqq&style=flat-square&color=blue" alt=""/></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 <h1>
     Hello, I am Aleks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 </h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 <h3><i>Started coding in late 2021</i></h3>
 <p>&#8226; 🚀 Currently working on myself</p>
 <p>&#8226; 🥊 Passion for thai-boxing</p>
