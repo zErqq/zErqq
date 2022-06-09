@@ -3,6 +3,7 @@
 <h1>
     Hello, I am Aleks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 </h1>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 <h3><i>Started coding in late 2021</i></h3>
 <p>&#8226; 🚀 Currently working on myself</p>
 <p>&#8226; 🥊 Passion for thai-boxing</p>
@@ -14,7 +15,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
     width="40" height="40"/>&nbsp;
     
-    <p align="right">
-     <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zErqq&theme=tokyonight&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 </div>
