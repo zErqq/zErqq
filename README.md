@@ -5,7 +5,7 @@
 </h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zErqq&theme=tokyonight&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zErqq&theme=tokyonight&show_icons=true" />
-<hr>
+<br>
 <h3><i>Started coding in late 2021</i></h3>
 <p>&#8226; 🚀 Currently working on myself</p>
 <p>&#8226; 🥊 Passion for thai-boxing</p>
